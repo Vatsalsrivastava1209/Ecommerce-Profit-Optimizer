@@ -17,19 +17,19 @@ This project analyzes a $13M ecommerce dataset to uncover marketing efficiency, 
 
 ## Executive Dashboard
 
-![Executive Dashboard](executive.png)
+![Executive Dashboard](Executive.png)
 
 ---
 
 ## Marketing Analysis
 
-![Marketing Analysis](marketing.png)
+![Marketing Analysis](Marketing.png)
 
 ---
 
 ## Customer Intelligence
 
-![Customer Intelligence](customer.png)
+![Customer Intelligence](Customer.png)
 
 ---
 
